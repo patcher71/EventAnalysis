@@ -12,4 +12,9 @@ Note: This code was written in about 2 hours with the help of Claude AI!
 
 <img width="2553" height="1342" alt="image" src="https://github.com/user-attachments/assets/274656cb-fa26-4536-ac6c-3c2046d4c102" />
 
+<img width="2542" height="1327" alt="image" src="https://github.com/user-attachments/assets/214f8ca6-b379-4c1c-b199-d6079dda966f" />
+
+<img width="2530" height="1317" alt="image" src="https://github.com/user-attachments/assets/5a74ef38-d627-4ee4-9bc7-9d1f9ce7857f" />
+
+
 
